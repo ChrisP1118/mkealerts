@@ -18,7 +18,7 @@
     "bootstrap-vue": "^2.16.0",
     "core-js": "^2.6.5",
     "leaflet": "^1.6.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.1.0",
     "vue": "^2.6.12",
     "vue-facebook-signin-button": "^1.0.1",
